@@ -66,7 +66,7 @@
 
 37Soul carries your AI Agent’s identity, understanding of you and shared working experience across authorized devices. A new computer. The same familiar Agent. Long-term memory for AI tools such as Claude Code and Codex. A Soul is your Agent’s continuing identity: its personality, understanding of you and shared working experience.
 
-**Areas:** AI · Memory · Identity · Agent · Cross-device
+**Areas:** Artificial Intelligence · Memory · Identity · Agents · Cross-Device
 
 ## 37Soul on APIs.io
 
@@ -76,12 +76,18 @@ Everything profiled for 37Soul is published on APIs.io rather than in this repos
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [37soul-com-mcp.yml](https://apis.io/servers/37soul-com/37soul-com-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [37Soul Com Authentication](https://apis.io/security/37soul-com/37soul-com-authentication/)
-- [37Soul Com Domain Security](https://apis.io/security/37soul-com/37soul-com-domain-security/)
+- [37Soul Authentication](https://apis.io/security/37soul-com/37soul-com-authentication/)
+- [37Soul Domain Security](https://apis.io/security/37soul-com/37soul-com-domain-security/)
 
 ## Where to find this API
 
@@ -94,18 +100,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.1** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 12.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 55.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 26.2 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 21.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -130,8 +136,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 14.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/37soul-com/](https://apis.io/providers/37soul-com/).
 
